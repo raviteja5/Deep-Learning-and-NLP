@@ -1,2 +1,1 @@
-# Deep-Learning-and-NLP
-Deep learning using PyTorch, and other NLP projects
+Deep learning for Dependency parser, and other NLP projects
