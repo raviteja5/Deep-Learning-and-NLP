@@ -4,7 +4,7 @@ DEV_FILE = "data/dev.txt"
 TEST_FILE = "data/test-hidden.txt"
 PRETRAINED_EMBEDS_FILE = "data/pretrained-embeds.pkl"
 
-DEV_GOLD = "data/dev.key"
+DEV_GOLD = "data/dev.key" 
 
 class Actions:
     """Enum for each possible parser action"""
